@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theFellandes
 - 👀 I’m interested in Programming Languages
-- 🌱 I’m currently learning Python and Java
+- 🌱 I’m currently learning Python, Java and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://www.linkedin.com/in/oguzhan-gungor/
 
