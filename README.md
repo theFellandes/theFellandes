@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thefellandes" alt="thefellandes" /></a> </p>
 
-- 🔭 I’m currently working on *Call Center Application Development in VakıfBank*
+- 🔭 I’m currently working on *Call Center Application Development in VakıfBank* and pursuing Master's Degree at Galatasaray University.
 
 - 🌱 I’m currently learning *Golang, Angular, Spring Boot 3*
 
