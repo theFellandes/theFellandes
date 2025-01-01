@@ -40,10 +40,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thefellandes&show_icons=true&locale=en&layout=compact" alt="thefellandes" /></p>
 
-<br>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thefellandes&show_icons=true&locale=en" alt="thefellandes" /></p>
-
-<br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thefellandes&" alt="thefellandes" /></p>
