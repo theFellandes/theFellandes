@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on *Call Center Application Development in VakıfBank* and pursuing Master's Degree at Galatasaray University.
 
-- 🌱 I’m currently learning *Golang, Angular, Spring Boot 3*
+- 🌱 I’m currently learning *Golang, LangChain, Angular, Spring Boot 3*
 
 - 👨‍💻 All of my projects are available at [github.com/theFellandes](github.com/theFellandes)
 
